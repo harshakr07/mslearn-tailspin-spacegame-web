@@ -1,6 +1,6 @@
 body {
-  color: black;
-  --link: #064EC0; }
+  color: rgb(247, 8, 8);
+  --link: #0462f8; }
 
 a {
   color: var(--link); }
@@ -16,7 +16,7 @@ section {
 
 .intro {
   height: 350px;
-  background-color: #0d75ed;
+  background-color: #00ff66;
   background-image: url("/images/space-background.svg");
   background-size: 1440px;
   background-position: center top;
